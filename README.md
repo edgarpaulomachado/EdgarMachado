@@ -1,4 +1,4 @@
-<h2 align="left">jello! Let's know more about me?</h2>
+<h2 align="left">Hello! Let's know more about me?</h2>
 
 ###
 
