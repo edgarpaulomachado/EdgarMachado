@@ -1,4 +1,4 @@
-<h2 align="left">Let's know more about me?</h2>
+<h2 align="left">jello! Let's know more about me?</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Usually I  work with:</h3>
+<h3 align="left">My Skills</h3>
 
 ###
 
