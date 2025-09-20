@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">Conect to me</h3>
+<h3 align="left">Connect to me</h3>
 
 ###
 
